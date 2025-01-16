@@ -11,10 +11,14 @@
             "id": "3a2cae345e472fa8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "FE/The web's Clipboard API.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The web's Clipboard API"
             }
           }
         ]
@@ -73,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 333.5
   },
   "right": {
     "id": "a59887e6a913c94a",
@@ -135,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2024-12-13.md"
+                "file": "FE/The web's Clipboard API.md"
               },
               "icon": "lucide-list",
-              "title": "2024-12-13 的大纲"
+              "title": "The web's Clipboard API 的大纲"
             }
           },
           {
@@ -150,16 +154,27 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "ab45b9664a0acc45",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 820.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "copilot:Open Copilot Chat": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -169,17 +184,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3a2cae345e472fa8",
+  "active": "8533d815a7c17284",
   "lastOpenFiles": [
+    "FE/The Secrets of the 'delete' Operator in JavaScript.md",
+    "FE/clientWidth scrollWidth offsetWidth 傻傻分不清楚.md",
+    "FE/The web's Clipboard API.md",
+    "Git 推送分支提示错误.md",
+    "iOS 键盘弹出导致布局问题.md",
+    "copilot-conversations/[[The_web's_Clipboard_API]]_续写这个笔记@20250116_151753.md",
+    "copilot-conversations",
+    "copilot-conversations/[[clientWidth_scrollWidth_offsetWidth_傻傻分不清楚]]_补充一下这个笔记@20250116_151523.md",
     "未命名.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas",
-    "clientWidth scrollWidth offsetWidth 傻傻分不清楚.md",
-    "Git 推送分支提示错误.md",
-    "iOS 键盘弹出导致布局问题.md",
-    "FE/The web's Clipboard API.md",
     "未命名 1.md",
-    "FE/The Secrets of the 'delete' Operator in JavaScript.md",
     "日记/2024-12-13.md",
     "Private Vault/创建链接.md",
     "日记/2024-12-18.md",
