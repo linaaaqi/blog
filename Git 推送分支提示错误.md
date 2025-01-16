@@ -1,3 +1,8 @@
+---
+title: Git 推送分支提示错误
+createdAt: 2024-12-27T16:53:00
+---
+
 错误信息：
 `error: RPC failed; HTTP 500 curl 22 The requested URL returned error: 500 Internal Server Error`
 
