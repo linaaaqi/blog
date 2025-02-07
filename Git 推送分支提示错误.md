@@ -1,6 +1,10 @@
 ---
-title: Git 推送分支提示错误
-createdAt: 2024-12-27T16:53:00
+title: Git 推送分支提示错误  
+date: 2024-12-27T16:53:00  
+lastMod: 2024-12-27T16:53:00  
+tags: [Git]  
+category: 笔记  
+summary: Git 推送分支提示错误
 ---
 
 错误信息：

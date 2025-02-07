@@ -1,6 +1,10 @@
 ---
-title: clientWidth scrollWidth offsetWidth 傻傻分不清楚
-createdAt: 2025-01-16T15:21:00
+title: clientWidth scrollWidth offsetWidth 傻傻分不清楚  
+date: 2025-01-16T15:21:00  
+lastMod: 2025-01-16T15:21:00  
+tags: [Javascript]  
+category: 笔记  
+summary: clientWidth scrollWidth offsetWidth 傻傻分不清楚
 ---
 
 ## 一、Element.clientWidth

@@ -1,6 +1,10 @@
 ---
-title: iOS 键盘弹出导致布局问题
-createdAt: 2024-12-27T16:53:00
+title: iOS 键盘弹出导致布局问题  
+date: 2024-12-27T16:53:00  
+lastMod: 2024-12-27T16:53:00  
+tags: [iOS]  
+category: 笔记  
+summary: iOS 键盘弹出导致布局问题
 ---
 幽怨的键盘难题和可见视口API：
 https://www.alloyteam.com/2020/02/14265/

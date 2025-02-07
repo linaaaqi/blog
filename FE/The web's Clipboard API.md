@@ -1,6 +1,10 @@
 ---
-title: The web's Clipboard API
-createdAt: 2024-12-27T16:53:00
+title: The web's Clipboard API  
+date: 2024-12-27T16:53:00  
+lastMod: 2024-12-27T16:53:00  
+tags: [Javascript]  
+category: 笔记  
+summary: The web's Clipboard API
 ---
 source: [https://alexharri.com/blog/clipboard](https://alexharri.com/blog/clipboard)
 

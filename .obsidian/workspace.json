@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FE/The web's Clipboard API.md",
-                "mode": "source",
-                "source": false
+                "file": "iOS 键盘弹出导致布局问题.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "The web's Clipboard API"
+              "title": "iOS 键盘弹出导致布局问题"
             }
           }
         ]
@@ -170,7 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 820.5
+    "width": 550.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,10 +186,10 @@
   },
   "active": "8533d815a7c17284",
   "lastOpenFiles": [
+    "Git 推送分支提示错误.md",
+    "FE/The web's Clipboard API.md",
     "FE/The Secrets of the 'delete' Operator in JavaScript.md",
     "FE/clientWidth scrollWidth offsetWidth 傻傻分不清楚.md",
-    "FE/The web's Clipboard API.md",
-    "Git 推送分支提示错误.md",
     "iOS 键盘弹出导致布局问题.md",
     "copilot-conversations/[[The_web's_Clipboard_API]]_续写这个笔记@20250116_151753.md",
     "copilot-conversations",
