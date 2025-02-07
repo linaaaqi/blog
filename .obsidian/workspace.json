@@ -6,21 +6,7 @@
       {
         "id": "9d183c248714b256",
         "type": "tabs",
-        "children": [
-          {
-            "id": "3a2cae345e472fa8",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/core-plugins.json",
-                "staged": false
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (core-plugins.json)"
-            }
-          }
-        ]
+        "children": []
       }
     ],
     "direction": "vertical"
@@ -154,16 +140,6 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "ab45b9664a0acc45",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
-            }
           }
         ],
         "currentTab": 4
@@ -174,7 +150,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "copilot:Open Copilot Chat": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -186,8 +161,11 @@
   },
   "active": "3a2cae345e472fa8",
   "lastOpenFiles": [
-    "Git 推送分支提示错误.md",
+    "js 中的 debounce(防抖) 和 throttle(节流).md",
     "iOS 键盘弹出导致布局问题.md",
+    "Git actions 基础使用示例.md",
+    "Git 推送分支提示错误.md",
+    "async await 使用注意.md",
     "FE/The web's Clipboard API.md",
     "FE/The Secrets of the 'delete' Operator in JavaScript.md",
     "FE/clientWidth scrollWidth offsetWidth 傻傻分不清楚.md",
