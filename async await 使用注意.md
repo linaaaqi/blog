@@ -2,7 +2,7 @@
 title: async / await 使用注意
 date: 2019-05-28T00:00:00
 lastMod: 2019-05-28T00:00:00
-tags: [教程, JavaScript, async/await]
+tags: [教程, JavaScript, async, await, Promise]
 category: 笔记
 summary: js 中的 async / await 有何作用？
 ---
