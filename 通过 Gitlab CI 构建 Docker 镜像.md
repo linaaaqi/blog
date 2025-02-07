@@ -4,7 +4,7 @@ date: 2021-01-01T00:00:00
 lastMod: 2021-01-01T00:00:00
 tags: [Docker, Gitlab CI, dind, Docker Image]
 category: 笔记
-summary: Gitlab CI 环境一般有：docker, shell。本文讨论在docker运行环境中如何再次构建Docker镜像。
+summary: 本文介绍了如何通过Gitlab CI在Docker环境中构建Docker镜像。首先，解释了`dind`（Docker in Docker）的概念，然后展示了项目的文件结构，包括`.gitlab-ci.yml`和`Dockerfile`。接着，详细讲解了`.gitlab-ci.yml`文件的配置，特别是如何使用`docker:dind`服务来构建和推送Docker镜像。最后，提供了相关文档链接供进一步阅读。
 ---
 
 ## 前情提要

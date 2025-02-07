@@ -4,7 +4,7 @@ date: 2024-12-27T16:53:00
 lastMod: 2024-12-27T16:53:00  
 tags: [Git]  
 category: 笔记  
-summary: Git 推送分支提示错误
+summary: Git 推送分支时，若遇到 HTTP 500 Internal Server Error 错误，可能是单个文件大小超过 Git 缓冲区大小。解决方案包括设置全局或当前仓库的 buffer size，或删除过大的文件。
 ---
 
 错误信息：

@@ -4,7 +4,7 @@ date: 2019-09-28T00:00:00
 lastMod: 2019-09-28T00:00:00
 tags: [GitHub Actions, CI CD]
 category: 笔记
-summary: GitHub Actions 及 GitHub Pages 简单搭配
+summary: 本文介绍了 GitHub Actions 和 GitHub Pages 的基本概念及其优势，并通过示例展示了如何使用 GitHub Actions 实现对 GitHub Pages 的自动化部署。
 ---
 
 ## 优势

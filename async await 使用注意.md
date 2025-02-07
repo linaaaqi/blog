@@ -4,7 +4,7 @@ date: 2019-05-28T00:00:00
 lastMod: 2019-05-28T00:00:00
 tags: [教程, JavaScript, async, await, Promise]
 category: 笔记
-summary: js 中的 async / await 有何作用？
+summary: 本文介绍了 JavaScript 中 `async/await` 的用法，解释了其语法、返回值和执行顺序，并通过示例展示了如何使用 `async/await` 处理异步操作，避免回调地狱。
 ---
 
 ## js 中的 async / await 有何作用？

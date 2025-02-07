@@ -4,8 +4,9 @@ date: 2024-12-27T16:53:00
 lastMod: 2024-12-27T16:53:00  
 tags: [Javascript]  
 category: 笔记  
-summary: The web's Clipboard API
+summary: 本文介绍了 Web Clipboard API 的使用方法，包括如何复制和读取剪贴板中的文本，提供了详细的代码示例和解释。
 ---
+
 source: [https://alexharri.com/blog/clipboard](https://alexharri.com/blog/clipboard)
 
 **一、复制文本到剪贴板**

@@ -4,8 +4,10 @@ date: 2024-12-27T16:53:00
 lastMod: 2024-12-27T16:53:00  
 tags: [iOS]  
 category: 笔记  
-summary: iOS 键盘弹出导致布局问题
+summary: 利用 Visual ViewPort API 解决 iOS 下键盘弹出时 Webkit 会导致页面布局出现滚动条等问题。
 ---
+
+
 幽怨的键盘难题和可见视口API：
 https://www.alloyteam.com/2020/02/14265/
 

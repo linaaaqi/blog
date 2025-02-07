@@ -4,7 +4,7 @@ date: 2019-12-02T00:00:00
 lastMod: 2019-12-02T00:00:00
 tags: [教程, Vue, TypeScript]
 category: 笔记
-summary: ~~Vue 3 都拥抱 TypeScript 了，你说呢？\[狗头]~~
+summary: Vue 2 升级 TypeScript 简单食用方式：本文介绍了如何在 Vue 2 项目中添加 TypeScript 支持，包括安装 TypeScript、配置 `tsconfig.json` 文件、使用 `Vue.extend` 和 `vue-class-component` 定义组件等方法。通过这些步骤，您可以在 Vue 2 项目中享受 TypeScript 带来的静态类型检查和更好的开发体验。
 ---
 
 ## 为什么？

@@ -4,7 +4,7 @@ date: 2025-01-16T15:21:00
 lastMod: 2025-01-16T15:21:00  
 tags: [Javascript]  
 category: 笔记  
-summary: clientWidth scrollWidth offsetWidth 傻傻分不清楚
+summary: Element.clientWidth、Element.scrollWidth 和 HTMLElement.offsetWidth 是 DOM 元素的三个常用属性，用于获取元素的宽度信息。本文介绍了这三个属性的定义、计算公式和示例，帮助开发者更好地理解它们之间的区别。
 ---
 
 ## 一、Element.clientWidth
