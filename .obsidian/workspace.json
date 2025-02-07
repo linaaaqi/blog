@@ -11,14 +11,13 @@
             "id": "3a2cae345e472fa8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "iOS 键盘弹出导致布局问题.md",
-                "mode": "preview",
-                "source": true
+                "file": ".obsidian/core-plugins.json",
+                "staged": false
               },
-              "icon": "lucide-file",
-              "title": "iOS 键盘弹出导致布局问题"
+              "icon": "git-pull-request",
+              "title": "Diff View (core-plugins.json)"
             }
           }
         ]
@@ -40,7 +39,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -170,7 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 550.5
+    "width": 495.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,13 +184,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8533d815a7c17284",
+  "active": "3a2cae345e472fa8",
   "lastOpenFiles": [
     "Git 推送分支提示错误.md",
+    "iOS 键盘弹出导致布局问题.md",
     "FE/The web's Clipboard API.md",
     "FE/The Secrets of the 'delete' Operator in JavaScript.md",
     "FE/clientWidth scrollWidth offsetWidth 傻傻分不清楚.md",
-    "iOS 键盘弹出导致布局问题.md",
     "copilot-conversations/[[The_web's_Clipboard_API]]_续写这个笔记@20250116_151753.md",
     "copilot-conversations",
     "copilot-conversations/[[clientWidth_scrollWidth_offsetWidth_傻傻分不清楚]]_补充一下这个笔记@20250116_151523.md",

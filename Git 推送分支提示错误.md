@@ -16,12 +16,12 @@ the largest individual file size is over the git buffer size
 解决方案：
 
 1.  设置全局 `buffer size`
-```ssh
+```bash
 git config --global http.postBuffer 157286400
 ```
 
 2.  设置当前 repo `buffer size`
-```ssh
+```bash
 git config http.postBuffer 157286400
 ```
 
